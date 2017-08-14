@@ -1,4 +1,4 @@
-Censor program: программа, которая заменяет вводимые пользователем в форму слова «fuck», «idiot» и «bitch» на «f**k», «id**t» и «bi**h».
+<p>Censor program: программа, которая заменяет вводимые пользователем в форму слова «fuck», «idiot» и «bitch» на «f**k», «id**t» и «bi**h».</p>
 
 Array sorting: 
 
